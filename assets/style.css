@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+.projeto-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 0 3px 3px black;
+}
+.projeto-box img{
+    width:100%;
+    height: 300px;
+    box-shadow: 0 0 5px 1px white;
+}
+.projeto-info{
+    padding: 20px;
+    text-align: center;
+}
+.btn{
+    margin-top: 30px;
+    border-radius: 3px;
+    padding: 5px 20px;
+    background-color: blue;
+    color: white;
+}
