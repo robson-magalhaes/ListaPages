@@ -1,1 +1,1 @@
-ItemR = [{"nome":"Robson","idade":30},{"nome":"fulano","idade":"10"}]
+itemR = [{"nome":"Robson","idade":30},{"nome":"fulano","idade":"10"}]
